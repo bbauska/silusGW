@@ -4,9 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Brian Bauska. I am a data wrangler by profession.  I have the following qualities:
 
 - I rock a baseball cap
+- I drive a ford and bmw
+- I write websites.  188 and counting as of today 8/6/2023
 - I'm extremely loyal to my family, particularly my grandbabies
 
 What else do you need?
