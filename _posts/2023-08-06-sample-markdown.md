@@ -54,12 +54,14 @@ foo(3)
 
 And here is the same code yet again but with line numbers:
 
+```
 {% highlight javascript linenos %}
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 {% endhighlight %}
+```
 
 ## Boxes
 You can add notification, warning and error boxes like this:
