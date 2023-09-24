@@ -16,4 +16,15 @@ At the heart of the struggle are two very different ideas of success—survival-
 
 A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
 
-Some quotes by A Einstein: Weak people revenge. Strong people forgive. Intelligent People Ignore. - next; The difference between stupidity and genius is that genius has its limits. - next; We can't solve today's problems with the mentality that created them.  - next; Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.  - next; The world will not be destroyed by those who do evil, but by those who watch them without doing anything.  - next; The only thing more dangerous than ignorance is arrogance.  - next; Information is not knowledge. The only source of knowledge is experience. You need experience to gain wisdom.
+<h2>Some quotes by A Einstein:</h2>
+
+<ul>
+  <li>Weak people revenge. Strong people forgive. Intelligent People Ignore.</li>
+  <li>The difference between stupidity and genius is that genius has its limits.</li>
+  <li>We can't solve today's problems with the mentality that created them.</li>
+  <li>Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.</li>
+  <li>The world will not be destroyed by those who do evil, but by those who watch them without doing anything.</li>
+  <li>The only thing more dangerous than ignorance is arrogance.</li>
+  <li>Information is not knowledge. The only source of knowledge is experience. You need experience to gain wisdom.</li>
+</ul>
+
