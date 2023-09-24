@@ -32,7 +32,7 @@ How about a yummy crepe?
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg) {: .mx-auto.d-block :}
 
 Here's a code chunk:
 
